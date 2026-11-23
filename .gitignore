@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env*
+credentials.json
+annke.json
+*.pem
+*.key
+*.log
+*.gguf
+*.onnx
